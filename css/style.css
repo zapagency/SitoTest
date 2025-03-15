@@ -2136,11 +2136,11 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 .bannerCustom {
-  background-color: #0c8fcc !important;
+  background-color: #0c8fcc33 !important;
 }
 
-.bannerCustom .overlay {
-  background: #0c8fcc;
+.bannerCustom .overlay , .competenciesBannerCustomAquamarine .overlay, .competenciesBannerCustomYellow .overlay, .competenciesBannerCustomBrown .overlay, .competenciesBannerCustomRed .overlay, 
+.competenciesBannerCustomLightGreen .overlay, .competenciesBannerCustomOrange .overlay, .competenciesBannerCustomPurple .overlay, .competenciesBannerCustomBlue .overlay{
   text-align: center;
   padding: 110px 0 110px 0;
 }
@@ -2175,4 +2175,54 @@ body .theme-button-one:hover {background:#000f32; }
   font-size: 1rem;
   font-weight: bold;
   margin-top: 10px;
+}
+
+.userTeam .social-icon li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.no-padding{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.competencies{
+  text-align: center;
+}
+
+.competenciesTextWhite{
+  color: white;
+}
+
+.competenciesBannerCustomAquamarine {
+  background-color: #005F6B;
+}
+
+.competenciesBannerCustomYellow {
+  background-color: #FFD700;
+}
+
+.competenciesBannerCustomBrown {
+  background-color: #4A4A4A;
+}
+
+.competenciesBannerCustomRed {
+  background-color: #A52A2A;
+}
+
+.competenciesBannerCustomLightGreen {
+  background-color: #28A745;
+}
+
+.competenciesBannerCustomOrange {
+  background-color: #E67E22;
+}
+
+.competenciesBannerCustomPurple {
+  background-color: #800080;
+}
+
+.competenciesBannerCustomBlue {
+  background-color: #003366;
 }
