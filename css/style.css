@@ -2226,3 +2226,19 @@ body .theme-button-one:hover {background:#000f32; }
 .competenciesBannerCustomBlue {
   background-color: #003366;
 }
+
+#Feature {
+  position: relative;
+  top: -200px;
+  /* margin-top: -500px; */
+}
+
+#Our-Team {
+  position: relative;
+  top: -100px;
+  /* margin-top: -500px; */
+}
+
+.padding-top-parters{
+  padding-top: 50px;
+}
