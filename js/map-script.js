@@ -183,12 +183,12 @@ $(function() {
         zoom: 12,
         styles: mapStyle,
         scrollwheel: false,
-        center: new google.maps.LatLng(40.72, -74)
+        center: new google.maps.LatLng(45.7818785, 12.1259616)
     });
 
     // Add a marker
     var marker = new google.maps.Marker({
         map: map,
-        position: new google.maps.LatLng(40.72, -74)
+        position: new google.maps.LatLng(45.7818785, 12.1259616)
     });
 });
