@@ -531,7 +531,7 @@ body .theme-button-one:hover {background:#000f32; }
 /*--------------------- Top Feature -------------------*/
 .top-feature .main-content {
   text-align: center;
-  padding: 50px 16%;
+  padding: 50px 6%;
   border-bottom: 4px solid transparent;
 }
 .top-feature .main-content:hover {border-bottom-color: #001a57;}
