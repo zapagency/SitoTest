@@ -2282,7 +2282,3 @@ body .theme-button-one:hover {background:#000f32; }
   font-weight: bold;
   cursor: pointer;
 }
-
-button.btn-close {
-  background-color: #0000ff00;
-}
