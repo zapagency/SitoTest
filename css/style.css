@@ -531,6 +531,8 @@ body .theme-button-one:hover {background:#000f32; }
   text-align: center;
   padding: 50px 6%;
   border-bottom: 4px solid transparent;
+  border-radius: 20px;
+  margin: 10px;
 }
 .top-feature .main-content:hover {border-bottom-color: #001a57;}
 .top-feature .main-content img {margin: 0 auto;}
