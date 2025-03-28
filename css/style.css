@@ -144,7 +144,7 @@
  }
 
  body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: normal;
   color:#555555;
   font-size: 18px;
@@ -309,7 +309,7 @@ body .theme-button-one:hover {background:#000f32; }
   right:-32px;
 }
 #polyglotLanguageSwitcher a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   display: inline-block;
   font-size: 15px;
   color:#fff;
@@ -831,7 +831,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
 .theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
 .theme-footer-one .top-footer .about-widget .queries a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 19px;
   color: #fff;
 }
@@ -850,7 +850,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding-left: 20px;
 }
 .theme-footer-one .top-footer .footer-recent-post li .post a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   color: #fff;
   line-height: 24px;
@@ -887,7 +887,7 @@ body .theme-button-one:hover {background:#000f32; }
   left:0;
 }
 .theme-footer-one .top-footer .footer-list ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
 }
@@ -930,7 +930,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-one .bottom-footer ul {text-align: right;}
 .theme-footer-one .bottom-footer ul li {display: inline-block;line-height: 25px;}
 .theme-footer-one .bottom-footer ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
   margin-left: 35px;
@@ -970,7 +970,7 @@ body .theme-button-one:hover {background:#000f32; }
   left:0;
 }
 .theme-footer-two .top-footer .footer-list ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
 }
@@ -989,7 +989,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .theme-footer-two .top-footer .contact-widget ul li:last-child {padding-bottom: 0;}
 .theme-footer-two .top-footer .contact-widget ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #9ca6bf;
 }
 .theme-footer-two .top-footer .contact-widget ul li i {
@@ -1275,7 +1275,7 @@ body .theme-button-one:hover {background:#000f32; }
 .our-blog .single-blog .image-box .overlay .date {
   line-height: 25px;
   border-radius: 5px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 14px;
   color: #fff;
   padding: 0 18px;
@@ -1544,7 +1544,7 @@ body .theme-button-one:hover {background:#000f32; }
 .blog-sidebar .title {font-weight: normal;margin-bottom: 12px;text-transform: capitalize;}
 .blog-sidebar .sidebar-categories ul li a {
   color: #555555;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   line-height: 35px;
   position: relative;
   padding-left: 25px;
@@ -1573,7 +1573,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding-left: 20px;
 }
 .blog-sidebar .sidebar-recent-post li .post a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #232323;
   line-height: 24px;
   margin-top: -5px;
@@ -1591,7 +1591,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .blog-sidebar .sidebar-archives ul li a {
   color: #555555;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   line-height: 32px;
   position: relative;
   padding-left: 28px;
@@ -1609,7 +1609,7 @@ body .theme-button-one:hover {background:#000f32; }
 .blog-sidebar .sidebar-tags ul li {float: left;padding: 0 2px;}
 .blog-sidebar .sidebar-tags ul li a {
   color: #555555;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   line-height: 28px;
   border: 1px solid #e1e1e1;
@@ -1658,7 +1658,7 @@ body .theme-button-one:hover {background:#000f32; }
   margin-right: 2px;
 }
 .blog-details .share-option .tag-meta li a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: normal;
   color: #555555;
 }
@@ -2142,7 +2142,7 @@ body .theme-button-one:hover {background:#000f32; }
 .bannerCustom .overlay , .competenciesBannerCustomAquamarine .overlay, .competenciesBannerCustomYellow .overlay, .competenciesBannerCustomBrown .overlay, .competenciesBannerCustomRed .overlay, 
 .competenciesBannerCustomLightGreen .overlay, .competenciesBannerCustomOrange .overlay, .competenciesBannerCustomPurple .overlay, .competenciesBannerCustomBlue .overlay{
   text-align: center;
-  padding: 110px 0 110px 0;
+  padding: 80px 0 80px 0;
 }
 
 .section-spacing-top-custom{
@@ -2162,8 +2162,8 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 .quote {
-  font-family: "Georgia", serif;
-  font-size: 1.5rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 2.0rem;
   font-style: italic;
   padding: 10px 20px;
   margin: 20px 0;
@@ -2172,7 +2172,7 @@ body .theme-button-one:hover {background:#000f32; }
 
 .author {
   display: block;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: bold;
   margin-top: 10px;
 }
@@ -2248,17 +2248,16 @@ body .theme-button-one:hover {background:#000f32; }
   line-height: 25px;
   color: rgb(156, 166, 191);
   position: relative;
-  padding: 5px 0px 12px 40px;
 }
 
 .feature-card {
   border-radius: 20px;
   overflow: hidden;
-  color: white;
-  text-align: left;
+  color: white !important;
+  text-align: left !important;
   padding: 20px;
   position: relative;
-  height: 500px;
+  height: 270px;
 }
 .feature-card img {
   position: absolute;
@@ -2278,11 +2277,15 @@ body .theme-button-one:hover {background:#000f32; }
   width: 30px;
   height: 30px;
   display: flex;
-  align-items: center;
+  align-items: center; 
   justify-content: center;
   font-size: 20px;
   font-weight: bold;
   cursor: pointer;
+}
+
+div h5, div h3 {
+  color: white !important;
 }
 
 
@@ -2315,6 +2318,67 @@ body .theme-button-one:hover {background:#000f32; }
   opacity: 0.7;
 }
 
+.competence {
+ margin-left: 50px;
+ margin-right: 50px;
+ margin-bottom: 50px;
+}
 
+/* competenze hover */
+.competence-section {
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+}
 
+.color-dots {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 5px;
+}
 
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* competenze hover info */
+.color-dots-info {
+  display: flex;
+  gap: 5px;
+  justify-content: left;
+}
+
+.dot-info {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Modifica layout per mobile */
+@media (max-width: 768px) {
+  .social-icon {
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+      gap: 5px;
+  }
+
+  .contact-widget, .contact-widget ul, .contact-widget ul li, .logo-widget {
+    display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+}
+
+.contact-info li a{
+  color: #214bac !important;
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+ top: -20px !important;
+}
