@@ -2387,3 +2387,21 @@ div h5, div h3 {
   font-size: 3.0rem;
   font-weight: 900;
 }
+
+.theme-title-one h1 {
+  position: relative;
+  text-transform: uppercase;
+  padding-bottom: 22px;
+}
+
+.theme-title-one h1:before {
+  content: '';
+  width: 40px;
+  height: 4px;
+  border-radius: 10px;
+  background: #c3c3c3;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -20px;
+}
