@@ -713,7 +713,7 @@ body .theme-button-one:hover {background:#000f32; }
   left:0;
   width: 100%;
   height: 100%;
-  background: rgba(0,26,87,0.7);
+  background: rgb(156 180 238 / 27%);
   border-radius: 5px 5px 0 0;
   -webkit-transform:scale(1,0);
           transform:scale(1,0);
@@ -2381,4 +2381,9 @@ div h5, div h3 {
 
 .owl-theme .owl-nav [class*=owl-] {
  top: -20px !important;
+}
+
+.userTeam h1 {
+  font-size: 3.0rem;
+  font-weight: 900;
 }
