@@ -3,11 +3,13 @@
     $to = "dywdgig@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
+    $surname = $_REQUEST['surname'];
     $headers = "From: $from";
     $subject = "You have a message from your Template";
 
     $fields = array();
     $fields{"name"}    = "Name";
+    $fields{"surname"}    = "Surname";
     $fields{"email"}    = "Email";
     $fields{"phone"}    = "Phone";
     $fields{"web"}    = "Website";
