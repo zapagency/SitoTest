@@ -168,6 +168,7 @@
  button:focus {outline: none;}
  input,textarea {outline: none; box-shadow: none;transition: all 0.3s ease-in-out;}
 .section-spacing {margin-bottom: 120px;}
+.section-spacing-custom {margin-bottom: 60px;}
 .section-spacing-top {margin-top: 120px;}
 .m-top0 {margin-top: 0 !important;}
 .m-bottom0 {margin-bottom: 0 !important;}
@@ -937,14 +938,14 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .theme-footer-one .bottom-footer ul li a:hover  {color: #fff;}
 /*---------------------- Theme footer Two ------------------*/
-.theme-footer-two {background: #001648;padding-top: 75px;}
+.theme-footer-two {background: #00a8e1;padding-top: 75px;}
 .theme-footer-two .logo-widget p {
   font-size: 17px;
   line-height: 25px;
-  color: #9ca6bf;
+  color: #ffffff;
   padding: 15px 0;
 }
-.theme-footer-two .logo-widget .social-icon li {display: inline-block;margin-right: 15px;}
+.theme-footer-two .logo-widget .social-icon li {display: inline-block}
 .theme-footer-two .logo-widget .social-icon li a {font-size: 15px;color: #ccd1dd;}
 .theme-footer-two .logo-widget .social-icon li a:hover {color: #fff;}
 .theme-footer-two .top-footer .title {
@@ -983,14 +984,14 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-two .top-footer .contact-widget ul li {
   font-size: 17px;
   line-height: 25px;
-  color: #9ca6bf;
+  color: #ffffff;
   position: relative;
   padding: 5px 0 12px 40px;
 }
 .theme-footer-two .top-footer .contact-widget ul li:last-child {padding-bottom: 0;}
 .theme-footer-two .top-footer .contact-widget ul li a {
   font-family: 'Nunito Sans', sans-serif;
-  color: #9ca6bf;
+  color: #ffffff;
 }
 .theme-footer-two .top-footer .contact-widget ul li i {
   font-size: 22px;
@@ -1004,7 +1005,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 12px 0;
   text-align: center;
 }
-.theme-footer-two .bottom-footer p {font-size: 17px;color: #9ca6bf;}
+.theme-footer-two .bottom-footer p {font-size: 17px;color: #ffffff;}
 /*----------------- CallOut Banner  --------------*/
 .callout-banner {
   background-color: #001a57;
@@ -2187,6 +2188,8 @@ body .theme-button-one:hover {background:#000f32; }
   padding-right: 0 !important;
 }
 
+/* Competenze */ 
+
 .competencies{
   text-align: center;
 }
@@ -2195,35 +2198,43 @@ body .theme-button-one:hover {background:#000f32; }
   color: white;
 }
 
-.competenciesBannerCustomAquamarine {
-  background-color: #005F6B;
+/* Diritto societario */
+.competenciesBannerCustomAquamarine, .main-content .competenciesBannerCustomAquamarine{
+  background-color: #28695e;
 }
 
-.competenciesBannerCustomYellow {
+/* Mediazione e Arbitrato */
+.competenciesBannerCustomYellow, .main-content .competenciesBannerCustomYellow{
   background-color: #a76c1b;
 }
 
-.competenciesBannerCustomBrown {
+/* Compliance */
+.competenciesBannerCustomBrown, .main-content .competenciesBannerCustomBrown{
   background-color: #4A4A4A;
 }
 
-.competenciesBannerCustomRed {
-  background-color: #887353;
+/* Crisi d’impresa e s. */
+.competenciesBannerCustomRed, .main-content .competenciesBannerCustomRed{
+  background-color: #771622;
 }
 
-.competenciesBannerCustomLightGreen {
-  background-color: #0e0e24;
+/* Diritto sportivo */
+.competenciesBannerCustomLightGreen, .main-content .competenciesBannerCustomLightGreen{
+  background-color: #e9514b;
 }
 
-.competenciesBannerCustomOrange {
-  background-color: #E67E22;
+/* Diritto del lavoro */
+.competenciesBannerCustomOrange, .main-content .competenciesBannerCustomOrange{
+  background-color: #e3b558;
 }
 
-.competenciesBannerCustomPurple {
+/* Proprietà intellettuale */
+.competenciesBannerCustomPurple, .main-content .competenciesBannerCustomPurple{
   background-color: #aed3cc;
 }
 
-.competenciesBannerCustomBlue {
+/* Diritto civile */
+.competenciesBannerCustomBlue, .main-content .competenciesBannerCustomBlue{
   background-color: #003366;
 }
 
@@ -2246,7 +2257,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-two .top-footer .logo-widget a {
   font-size: 17px;
   line-height: 25px;
-  color: rgb(156, 166, 191);
+  color: rgb(255, 255, 255);
   position: relative;
 }
 
@@ -2359,6 +2370,10 @@ div h5, div h3 {
   display: inline-block;
 }
 
+.dot-margin{
+  margin-top: revert-layer !important;
+}
+
 /* Modifica layout per mobile */
 @media (max-width: 768px) {
   .social-icon {
@@ -2408,4 +2423,8 @@ div h5, div h3 {
   bottom: 0;
   left: 50%;
   margin-left: -20px;
+}
+
+.form-button{
+  background-color: #00a8e1 !important;
 }
