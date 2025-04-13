@@ -77,7 +77,7 @@
         var banner = $("#theme-main-banner");
         if (banner.length) {
           banner.camera({ //here I declared some settings, the height and the presence of the thumbnails 
-            height: '780px',
+            height: 'auto',
             pagination: true,
             navigation: false,
             thumbnails: false,
