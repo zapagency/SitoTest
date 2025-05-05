@@ -144,7 +144,7 @@
  }
 
  body {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
   color:#555555;
   font-size: 18px;
@@ -152,7 +152,7 @@
  }
  .main-page-wrapper {overflow-x:hidden;}
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
- h1,h2,h3,h4,h5,h6 {font-family: 'Nunito Sans', sans-serif; color: #232323;}
+ h1,h2,h3,h4,h5,h6 {font-family: 'Roboto', sans-serif; color: #232323;}
  h1 {font-size: 38px; font-weight: 900;}
  h2 {font-size: 38px; font-weight: 900;}
  h3 {font-size: 32px; font-weight: 700;}
@@ -161,7 +161,7 @@
  h6 {font-size: 20px; font-weight: normal;}
  p {line-height: 27px;}
  ul {list-style-type: none;}
- body a {text-decoration: none;color: #232323; display: inline-block;font-family: 'Nunito Sans', sans-serif;}
+ body a {text-decoration: none;color: #232323; display: inline-block;font-family: 'Roboto', sans-serif;}
  a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
  img {max-width: 100%; display: block;}
  button {border:none;outline: none;box-shadow: none;display: block; padding: 0;cursor: pointer;}
@@ -310,7 +310,7 @@ body .theme-button-one:hover {background:#000f32; }
   right:-32px;
 }
 #polyglotLanguageSwitcher a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   display: inline-block;
   font-size: 15px;
   color:#fff;
@@ -343,7 +343,7 @@ body .theme-button-one:hover {background:#000f32; }
   font-size: 16px;
 }
 .theme-menu-wrapper .right-widget .cart-icon a span {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   position: absolute;
   width: 15px;
   height: 15px;
@@ -531,6 +531,7 @@ body .theme-button-one:hover {background:#000f32; }
 .top-feature .main-content {
   text-align: center;
   padding: 50px 6%;
+  min-height: 300px;
   border-bottom: 4px solid transparent;
   border-radius: 20px;
   margin: 10px;
@@ -756,7 +757,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-counter h2 {font-size: 42px;font-weight: 700;padding: 12px 0 35px 0;}
 .cunter-wrapper {width: 75%;margin: 0 auto; text-align: center;}
 .single-counter-box .number {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 40px;
 }
@@ -803,7 +804,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 0 0 10px 0;
   margin-bottom: 32px;
 }
-.theme-form-one .theme-button-one { font-family: 'Nunito Sans', sans-serif;}
+.theme-form-one .theme-button-one { font-family: 'Roboto', sans-serif;}
 /*------------------- Partner Slider ------------------*/
 .partner-section {padding: 22px 0;}
 .partner-section.bg-color {background: #f8faff;}
@@ -832,7 +833,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
 .theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
 .theme-footer-one .top-footer .about-widget .queries a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 19px;
   color: #fff;
 }
@@ -851,7 +852,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding-left: 20px;
 }
 .theme-footer-one .top-footer .footer-recent-post li .post a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 17px;
   color: #fff;
   line-height: 24px;
@@ -888,7 +889,7 @@ body .theme-button-one:hover {background:#000f32; }
   left:0;
 }
 .theme-footer-one .top-footer .footer-list ul li a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
 }
@@ -931,7 +932,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-one .bottom-footer ul {text-align: right;}
 .theme-footer-one .bottom-footer ul li {display: inline-block;line-height: 25px;}
 .theme-footer-one .bottom-footer ul li a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
   margin-left: 35px;
@@ -971,7 +972,7 @@ body .theme-button-one:hover {background:#000f32; }
   left:0;
 }
 .theme-footer-two .top-footer .footer-list ul li a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 17px;
   color: #9ca6bf;
 }
@@ -990,7 +991,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .theme-footer-two .top-footer .contact-widget ul li:last-child {padding-bottom: 0;}
 .theme-footer-two .top-footer .contact-widget ul li a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
 .theme-footer-two .top-footer .contact-widget ul li i {
@@ -1276,7 +1277,7 @@ body .theme-button-one:hover {background:#000f32; }
 .our-blog .single-blog .image-box .overlay .date {
   line-height: 25px;
   border-radius: 5px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   color: #fff;
   padding: 0 18px;
@@ -1545,7 +1546,7 @@ body .theme-button-one:hover {background:#000f32; }
 .blog-sidebar .title {font-weight: normal;margin-bottom: 12px;text-transform: capitalize;}
 .blog-sidebar .sidebar-categories ul li a {
   color: #555555;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 35px;
   position: relative;
   padding-left: 25px;
@@ -1574,7 +1575,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding-left: 20px;
 }
 .blog-sidebar .sidebar-recent-post li .post a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #232323;
   line-height: 24px;
   margin-top: -5px;
@@ -1592,7 +1593,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .blog-sidebar .sidebar-archives ul li a {
   color: #555555;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 32px;
   position: relative;
   padding-left: 28px;
@@ -1610,7 +1611,7 @@ body .theme-button-one:hover {background:#000f32; }
 .blog-sidebar .sidebar-tags ul li {float: left;padding: 0 2px;}
 .blog-sidebar .sidebar-tags ul li a {
   color: #555555;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 17px;
   line-height: 28px;
   border: 1px solid #e1e1e1;
@@ -1649,7 +1650,7 @@ body .theme-button-one:hover {background:#000f32; }
 .blog-details .share-option .social-icon li {
   display: inline-block;
   vertical-align: middle;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   color: #232323;
 }
@@ -1659,7 +1660,7 @@ body .theme-button-one:hover {background:#000f32; }
   margin-right: 2px;
 }
 .blog-details .share-option .tag-meta li a {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
   color: #555555;
 }
@@ -1917,7 +1918,7 @@ body .theme-button-one:hover {background:#000f32; }
   vertical-align: middle;
 }
 .shop-details .product-details .product-info .order-box li:nth-child(1) {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #232323;
   margin-right: 5px;
 }
@@ -2113,7 +2114,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 .logo-custom{
-  height: 4.0em;
+  height: 4.5em;
 }
 
 .textBlue{
@@ -2155,7 +2156,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 .textWhite:hover{
-  color: rgb(46, 46, 46) !important;
+  color: rgb(247, 247, 247) !important;
 }
 
 .margin-footer-info{
@@ -2163,7 +2164,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 .quote {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.0rem;
   font-style: italic;
   padding: 10px 20px;
@@ -2199,43 +2200,91 @@ body .theme-button-one:hover {background:#000f32; }
 }
 
 /* Diritto societario */
-.competenciesBannerCustomAquamarine, .main-content .competenciesBannerCustomAquamarine{
+.competenciesBannerCustomAquamarine, .competenciesBannerCustomAquamarine2, .main-content .competenciesBannerCustomAquamarine{
   background-color: #28695e;
 }
 
 /* Mediazione e Arbitrato */
-.competenciesBannerCustomYellow, .main-content .competenciesBannerCustomYellow{
-  background-color: #c86733;
+.competenciesBannerCustomYellow, .competenciesBannerCustomYellow2, .main-content .competenciesBannerCustomYellow{
+  background-color: #CE682C;
 }
 
 /* Compliance */
-.competenciesBannerCustomBrown, .main-content .competenciesBannerCustomBrown{
+.competenciesBannerCustomBrown, .competenciesBannerCustomBrown2, .main-content .competenciesBannerCustomBrown{
   background-color: #4A4A4A;
 }
 
 /* Crisi d’impresa e s. */
-.competenciesBannerCustomRed, .main-content .competenciesBannerCustomRed{
+.competenciesBannerCustomRed, .competenciesBannerCustomRed2, .main-content .competenciesBannerCustomRed{
   background-color: #771622;
 }
 
 /* Diritto sportivo */
-.competenciesBannerCustomLightGreen, .main-content .competenciesBannerCustomLightGreen{
+.competenciesBannerCustomLightGreen, .competenciesBannerCustomLightGreen2, .main-content .competenciesBannerCustomLightGreen{
   background-color: #e9514b;
 }
 
 /* Diritto del lavoro */
-.competenciesBannerCustomOrange, .main-content .competenciesBannerCustomOrange{
-  background-color: #e3b558;
+.competenciesBannerCustomOrange, .competenciesBannerCustomOrange2, .main-content .competenciesBannerCustomOrange{
+  background-color: #DDAC2A;
 }
 
 /* Proprietà intellettuale */
-.competenciesBannerCustomPurple, .main-content .competenciesBannerCustomPurple{
+.competenciesBannerCustomPurple, .competenciesBannerCustomPurple2, .main-content .competenciesBannerCustomPurple{
   background-color: #aed3cc;
 }
 
 /* Diritto civile */
-.competenciesBannerCustomBlue, .main-content .competenciesBannerCustomBlue{
+.competenciesBannerCustomBlue, .competenciesBannerCustomBlue2, .main-content .competenciesBannerCustomBlue{
   background-color: #003366;
+}
+
+/* Diritto societario */
+.competenciesBannerCustomAquamarine2:hover{
+  background-color: #28695e;
+  opacity: 0.7;
+}
+
+/* Mediazione e Arbitrato */
+.competenciesBannerCustomYellow2:hover{
+  background-color: #CE682C;
+  opacity: 0.7;
+}
+
+/* Compliance */
+.competenciesBannerCustomBrown2:hover{
+  background-color: #4A4A4A;
+  opacity: 0.7;
+}
+
+/* Crisi d’impresa e s. */
+.competenciesBannerCustomRed2:hover{
+  background-color: #771622;
+  opacity: 0.7;
+}
+
+/* Diritto sportivo */
+.competenciesBannerCustomLightGreen2:hover{
+  background-color: #e9514b;
+  opacity: 0.7;
+}
+
+/* Diritto del lavoro */
+.competenciesBannerCustomOrange2:hover{
+  background-color: #DDAC2A;
+  opacity: 0.7;
+}
+
+/* Proprietà intellettuale */
+.competenciesBannerCustomPurple2:hover{
+  background-color: #aed3cc;
+  opacity: 0.7;
+}
+
+/* Diritto civile */
+.competenciesBannerCustomBlue2:hover{
+  background-color: #003366;
+  opacity: 0.7;
 }
 
 #Feature {
@@ -2350,8 +2399,8 @@ div h5, div h3 {
 }
 
 .dot {
-  width: 10px;
-  height: 10px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   display: inline-block;
 }
@@ -2427,4 +2476,24 @@ div h5, div h3 {
 
 .form-button{
   background-color: #00a8e1 !important;
+}
+
+.main-content {
+  cursor: pointer;
+}
+
+.main-content a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+ul .dropdown > li > a:hover{
+  color: #0c8fcc !important;
+}
+
+.fa-search{
+  color: white;
 }
