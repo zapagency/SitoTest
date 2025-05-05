@@ -488,7 +488,11 @@ body .theme-button-one:hover {background:#000f32; }
   left: 0;
   padding: 0;
 }
-#theme-main-banner .camera_caption h1 {text-transform: uppercase;padding: 30px 0 35px 0;}
+#theme-main-banner .camera_caption h1 {
+  text-transform: uppercase;
+  padding: 30px 0 35px 0;
+  color: #ffffff !important;
+}
 #theme-main-banner .camera_caption p {
   font-size: 26px;
   line-height: 35px;
