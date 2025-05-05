@@ -2413,8 +2413,8 @@ div h5, div h3 {
 }
 
 .dot-info {
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   display: inline-block;
 }
@@ -2492,6 +2492,11 @@ div h5, div h3 {
 
 ul .dropdown > li > a:hover{
   color: #0c8fcc !important;
+  padding-right: 15px !important;
+}
+
+ul .dropdown > li > a{
+  padding-right: 15px !important;
 }
 
 .fa-search{
