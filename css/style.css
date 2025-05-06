@@ -2521,3 +2521,9 @@ ul .dropdown > li > a{
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
+@media (max-width: 991px) {
+  .logo-custom {
+    height: 3.5em !important;
+}
+}
