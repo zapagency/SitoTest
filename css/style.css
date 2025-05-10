@@ -2527,3 +2527,8 @@ ul .dropdown > li > a{
     height: 3.5em !important;
 }
 }
+
+.textbold{
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 900 !important; /* o bold */
+}
